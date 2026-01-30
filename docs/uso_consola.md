@@ -6,4 +6,8 @@ lista de comando
 - mkdir crear una carpeta  
 - touch crear un archivo 
 
-[pwd](
+![pwd](./img/pwd.png)
+![ls](./img/LS%20-ALL.png)
+![cd](./img/cd.png)
+![mkdir](./img/mkdir.png)
+![touch](./img/touch.png)
