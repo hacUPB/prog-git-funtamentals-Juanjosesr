@@ -1,4 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
+
+##### Siguiendo con el trabajo:  
+###### .git ignore  
+- es un archivo para ignoras ciertas carpetas o archivos innecesarios para subir a la hora de realizar el push  
+###### src/script.py  
+- es un código de ejemplo básico para calcular el promedio de una lista de de ńúmeros  
+###### docs/archivo_gitignore  
+- explicación del uso de .gitignore  
+###### docs/uso_comnsola
+- explicación de como navegar y usar la consola
+###### docs/repositorio_local  
+- explicación de como crear un repositorio local
+###### docs/repositorio_remoto  
+- explicación de como crear un rempositorio remoto  
+###### docs/img  
+- carpeta con las imagenes usadas en los codigos de los archivos
+
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
