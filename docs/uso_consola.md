@@ -4,4 +4,6 @@ lista de comando
 - ls -al saber todos los archivos y carpetas que hay en la carpeta actual  
 - cd / cd .. entrar o salir de una carpeta  
 - mkdir crear una carpeta  
-- touch crear un archivo  
+- touch crear un archivo 
+
+[pwd](
