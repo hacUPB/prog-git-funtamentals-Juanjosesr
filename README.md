@@ -7,14 +7,27 @@
 - es un código de ejemplo básico para calcular el promedio de una lista de de ńúmeros  
 ###### docs/archivo_gitignore  
 - explicación del uso de .gitignore  
-###### docs/uso_comnsola
-- explicación de como navegar y usar la consola
+###### docs/uso_comnsola  
+- explicación de como navegar y usar la consola  
 ###### docs/repositorio_local  
-- explicación de como crear un repositorio local
+- explicación de como crear un repositorio local  
 ###### docs/repositorio_remoto  
 - explicación de como crear un rempositorio remoto  
 ###### docs/img  
-- carpeta con las imagenes usadas en los codigos de los archivos
+- carpeta con las imagenes usadas en los codigos de los archivos  
+
+##### Pasos para clonar un repositorio  
+Debes tener el link de un repositorio de github, y paso seguido ejecutar el comando  
+- git clone []  
+reemplazando [] con el link del repositorio  
+
+| Encabezado 1 | Encabezado 2 |
+| :--- | :--- |
+| Fila 1, Col 1 | Fila 1, Col 2 |
+| Fila 2, Col 1 | Fila 2, Col 2 |
+| Fila 3, Col 1 | Fila 3, Col 2 |
+| Fila 4, Col 1 | Fila 4, Col 2 |
+| Fila 5, Col 1 | Fila 5, Col 2 |
 
 
 # Unidad No. 1 - Git y GitHub
