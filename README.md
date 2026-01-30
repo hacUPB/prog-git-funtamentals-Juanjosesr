@@ -21,13 +21,12 @@ Debes tener el link de un repositorio de github, y paso seguido ejecutar el coma
 - git clone []  
 reemplazando [] con el link del repositorio  
 
-| Encabezado 1 | Encabezado 2 |
+| archivo | enlace |
 | :--- | :--- |
-| Fila 1, Col 1 | Fila 1, Col 2 |
-| Fila 2, Col 1 | Fila 2, Col 2 |
-| Fila 3, Col 1 | Fila 3, Col 2 |
-| Fila 4, Col 1 | Fila 4, Col 2 |
-| Fila 5, Col 1 | Fila 5, Col 2 |
+| uso_consola | [enlace](./docs/uso_consola.md) |
+| repositorio_local | [enlace](./docs/repositorio_local.md) |
+| repositorio_remoto | [enlace](./docs/repositorio_remoto.md |
+| Archivo_gitignore | [enlace](./docs/Archivo_gitignore.md) |
 
 
 # Unidad No. 1 - Git y GitHub
