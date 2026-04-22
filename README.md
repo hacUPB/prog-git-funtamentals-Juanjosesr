@@ -25,7 +25,7 @@ reemplazando [] con el link del repositorio
 | :--- | :--- |
 | uso_consola | [enlace](./docs/uso_consola.md) |
 | repositorio_local | [enlace](./docs/repositorio_local.md) |
-| repositorio_remoto | [enlace](./docs/repositorio_remoto.md |
+| repositorio_remoto | [enlace](./docs/repositorio_remoto.md) |
 | Archivo_gitignore | [enlace](./docs/Archivo_gitignore.md) |
 
 
